@@ -639,6 +639,7 @@ body {
 
 .footer2 > .footer_left > p {
   font-size: 15px;
+  padding-top: 5px;
 }
 
 .footer2 > .footer_left > form {
@@ -1482,9 +1483,11 @@ body {
   .notice_wrap > .footer_hide_left > p {
     font-size: 2.5vw;
     color: #fff;
+    padding-top: 1vw;
   }
   .notice_wrap > .footer_hide_left > form {
     margin-top: 6.666vw;
+    border: none;
   }
   .notice_wrap > .footer_hide_left > form > input {
     border: none;
