@@ -542,6 +542,7 @@ body {
     float: left;
     >p {
       font-size: 15px;
+      padding-top: 5px;
     }
     >form {
       margin-top: 40px;
@@ -1375,9 +1376,11 @@ body {
     >p {
       font-size: 2.5vw;
       color: #fff;
+      padding-top: 1vw;
     }
     >form {
       margin-top: 6.666vw;
+      border: none;
       >input {
         border: none;
         font-size: 3.333vw;
