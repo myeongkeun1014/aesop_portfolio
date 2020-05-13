@@ -1527,9 +1527,11 @@ body {
     height: 51.666vw;
   }
   .trs_box h1 {
+    font-size: 4em;
+    width: 175vw;
     height: 14.166vw;
-    left: -80vw;
-    top: 78.333vw;
+    left: -85vw;
+    top: 98.333vw;
   }
 }
 /*# sourceMappingURL=index.css.map */
